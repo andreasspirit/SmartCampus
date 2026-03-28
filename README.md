@@ -90,8 +90,8 @@ The system is designed to be **scalable & maintainable** using:
 
 ---
 
-👤 Author
+## 👤 Author
 
-Name: [Andreas Pnevmatikas]
-Module: CO2402
-Project: Smart Campus Command-Line System 🏫✅
+- Name: [Andreas Pnevmatikas]
+- Module: CO2402
+- Project: Smart Campus Command-Line System 🏫✅
