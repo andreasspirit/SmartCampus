@@ -1,0 +1,5 @@
+1,SecurityCamera,FrontCam,Axis,1080p,Battery
+2,AirConditioning,AC_Main,CARRIER,21,
+3,Projector,LectureProj,Epson,HDMI,80
+4,RoomLighting,HallLight,Philips,65,
+5,DoorLock,MainDoor,Yale,true,Andrew
